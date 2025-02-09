@@ -4,8 +4,8 @@ Welcome to the Ark community!
 
 Useful links to get started with understanding Ark:
 
-    * [CAIDA Ark project page](https://www.caida.org/projects/ark/)
-    * [Scamper Python module documentation](https://users.caida.org/~mjl/tmp/scamper-python/)
+ * [CAIDA Ark project page](https://www.caida.org/projects/ark/)
+ * [Scamper Python module documentation](https://users.caida.org/~mjl/tmp/scamper-python/)
 
 
 ## Introduction
@@ -17,9 +17,9 @@ also started supporting software-based Ark nodes.
 
 Ark continuously collects data to help researchers and aims to:
 
-    * Provide a secure, distributed platform for approved measurements.
-    * Make it easier to create, deploy, and analyze large-scale Internet
-      measurements.
+ * Provide a secure, distributed platform for approved measurements.
+ * Make it easier to create, deploy, and analyze large-scale Internet
+   measurements.
 
 Ark is designed for measurements that need coordination across multiple
 locations. It runs ongoing measurement projects, creating public datasets on
