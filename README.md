@@ -5,7 +5,7 @@ Welcome to the Ark community!
 Useful links to get started with understanding Ark:
 
  * [CAIDA Ark project page](https://www.caida.org/projects/ark/)
- * [Scamper Python module documentation](https://users.caida.org/~mjl/tmp/scamper-python/)
+ * [Scamper Python module documentation](https://www.caida.org/catalog/software/scamper/python/)
 
 
 ## Introduction
