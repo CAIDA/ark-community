@@ -29,9 +29,7 @@ approved experiments to test new measurement techniques, keeping a record of
 past and current projects.
 
 
-## Measurements
-
-### Public Datasets
+## Public Datasets
 
 The regular and ongoing measurements performed by Ark nodes get published as
 public datasets. All the datasets are listed in the
@@ -42,7 +40,8 @@ on the CAIDA Resource Catalog, but some popular ones include:
  * [Ark IPv4 Routed /24 Topology](https://www.caida.org/catalog/datasets/ipv4_routed_24_topology_dataset/)
  * [Ark IPv6 Topology Dataset](https://www.caida.org/catalog/datasets/ipv6_allpref_topology_dataset/)
 
-### Custom Measurements
+
+## Custom Measurements
 
 Approved researchers and collaborators can get access to the Ark integrated
 active measurement programming environment which allows them to perform their
